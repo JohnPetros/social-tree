@@ -10,6 +10,8 @@
 
 Projeto de uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
+ <h2><a href="https://johnpetros.github.io/balle_bot/">Veja o Site funcionando 👀</a></h2>
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias
