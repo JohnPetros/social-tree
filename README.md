@@ -1,19 +1,24 @@
-# social-tree
- Landing Page feito com HTML e CSS com base no vídeo da Rafaella Ballerini
+<h1 align="center">
+  Social Tree
+</h1>
 
- ## Landing Page Balle Bot
-![Balle Bot - Modere a sua comunidade do Discord - Google Chrome 25_07_2022 15_57_25](https://user-images.githubusercontent.com/93893533/180853375-e56add24-a194-47b2-8c9d-1c6110b00aa6.png)
+![Social tree - Google Chrome 28_07_2022 15_20_11](https://user-images.githubusercontent.com/93893533/181612291-68a927ed-c4f0-4815-a2aa-10997f6f0608.png)
 
-## Como foi Elaborado
-A página é dividido em três partes: header, contendo logo e barra de navegação; main, contendo título, imagem principal, botão e  breves textos a respeito da Balle Bot; e por fim um footer, tendo o nome da Ballerini destacado.
+<br />
 
-## O que eu aprendi
-Com essa landing page pude treinar conceitos de flexbox e diferentes formas de estilizar bordas de elementos com CSS.
+## 💻 Projeto
 
- <h3><a href="https://johnpetros.github.io/balle_bot/">Veja o Site funcionando 👀</a></h3>
+Projeto de uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
- 🚀 Tecnologias utilizadas
+## 🧪 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias
 
 ✔️ HTML5
 
 ✔️ CSS3
+
+---
+
+Feito com 💜 by João Pedro 👋🏻
+
