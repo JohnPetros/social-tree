@@ -10,7 +10,7 @@
 
 Projeto de uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 
- <h3 align="center"><a href="https://johnpetros.github.io/social-tree/">Veja o Site funcionando 👀</a></h3>
+ <h3 align="center"><a href="https://johnpetros.github.io/social-tree/">Veja a Página funcionando 👀</a></h3>
 
  <br>
 
