@@ -12,6 +12,8 @@ Projeto de uma página com uma lista de links que pode ser usada em perfis de re
 
  <h2><a href="https://johnpetros.github.io/social-tree/">Veja o Site funcionando 👀</a></h2>
 
+ <br>
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias
